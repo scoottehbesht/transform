@@ -10,7 +10,7 @@
 }
 
 .box1:hover + .box2 {
-  -webkit-transform: rotate(5000deg);
+  -webkit-transform: rotate(6900deg);
   opacity: 0;
 }
 
